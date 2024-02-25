@@ -36,7 +36,15 @@ class App(customtkinter.CTk):
 
 
     def btn_comenzar_ingreso_on_click(self):
-        pass
+        ingreso= promt("ingrese","numero):
+contador= 0
+suma =0
+multiplicación =0
+While true
+      contador= contador + 1
+ef ingreso <0 or ingreso >0
+
+
 
     
 if __name__ == "__main__":
