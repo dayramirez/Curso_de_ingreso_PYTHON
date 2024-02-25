@@ -1,4 +1,4 @@
-import tkinter
+²import tkinter
 from tkinter.messagebox import showinfo as alert
 from tkinter.messagebox import askyesno as question
 from tkinter.simpledialog import askstring as prompt
@@ -36,13 +36,14 @@ class App(customtkinter.CTk):
 
 
     def btn_comenzar_ingreso_on_click(self):
-        ingreso= promt("ingrese","numero):
-contador= 0
-suma =0
-multiplicación =0
-While true
-      contador= contador + 1
-ef ingreso <0 or ingreso >0
+        ingreso= promt("ingrese","numero"):
+        contador= 0
+        suma =0
+        multiplicación =0
+        While true
+         contador= contador + 1
+       ef ingreso <0 or ingreso >0
+
 
 
 
